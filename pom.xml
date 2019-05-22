@@ -14,5 +14,6 @@
 
     <modules>
         <module>spring-boot-milton</module>
+        <module>spring-boot-mangodb</module>
     </modules>
 </project>
